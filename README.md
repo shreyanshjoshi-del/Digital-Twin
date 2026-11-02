@@ -11,7 +11,7 @@ Built for the **HACKVERSE 2026 Hackathon**
 |**Topics**|**Description**|
 |-|-|
 |🏗️ **Architecture diagram**|[`docs/Manas\\\_Twin\\\_Architecture.pdf`](docs/Manas_Twin_Architecture.pdf) · [`.pptx`](docs/Manas_Twin_Architecture.pptx)|
-|📊 **Presentation**|[`docs/Manas\\\_Twin\\\_Presentation.pdf`](docs/Manas_Twin_Presentation.pdf) · [`.pptx`](docs/Manas_Twin_Presentation.pptx)|
+|📊 **Presentation**|[`docs/Manas\\\_Twin\\\_Presentation.pptx`](docs/Manas_Twin_Presentation.pptx)|
 |🤖 **Model details**|[`MODEL.md`](MODEL.md)|
 |🗂️ **Data card**|[`DATA.md`](DATA.md)|
 |🧪 **Real-data check**|Section 5b below · `reports/depresjon\\\_validation.json`|
