@@ -103,6 +103,7 @@ Why a one-size-fits-all threshold fails: 6 hours of sleep is normal for one pers
 
 ### 5b. Real-data check: DEPRESJON wrist-actigraphy
 The DEPRESJON dataset is an open-access, public database containing continuous motor activity (actigraphy) recordings from patients diagnosed with depression alongside healthy controls. Published in 2018 by Garcia-Ceja et al., it was created to bridge a gap in medical research where clinical sensor data is rarely shared publicly. It is widely used by researchers to train machine learning models for automated depression detection. 
+
 To test whether the twin's rhythm features carry real signal, we ran them on the public **DEPRESJON** dataset (Garcia-Ceja et al., MMSys 2018): minute-level wrist actigraphy from **23 people with depression and 32 controls**, about 13 days each (1,034 complete days). 
 
 |Question|Result|
