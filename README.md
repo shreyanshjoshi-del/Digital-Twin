@@ -113,7 +113,7 @@ To test whether the twin's rhythm features carry real signal, we ran them on the
 |Does the personal baseline add information *here*?|No, and it shouldn't: DEPRESJON has no within-person onsets to detect. The between-person signal lives in raw levels; the personal baseline is the layer for within-person change, which needs longitudinal data|
 |Do features track MADRS severity?|Not significantly with n = 23 (rho between −0.3 and 0.2)|
 
-Reproduce: download DEPRESJON to `data/depresjon/` and run `python -m src.validate\\\_depresjon`. The dataset is not redistributed in this repository.
+
 
 !\[DEPRESJON group features](reports/figures/depresjon\_group\_features.png)
 
